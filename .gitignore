@@ -1,0 +1,12 @@
+# Visual Studio temporary files
+.vs/
+out/
+build/
+bin/
+obj/
+*.user
+*.sln
+*.vcxproj
+
+# SDL3 Binaries (Your colleagues should have their own)
+*.dll
